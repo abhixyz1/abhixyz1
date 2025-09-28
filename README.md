@@ -30,13 +30,4 @@ alt="github follow"/>
 </table>
 <!--- stats (end) -->
 </p>        
-<!--- stats (end) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-<p><img align="center" src="https://raw.githubusercontent.com/abhixyz1/abhixyz1/667c32cfe81ef8cd755a53cf4ffd13f00d4165c5/github-metrics.svg" alt="Metrics" width="800" /></p>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 ------
