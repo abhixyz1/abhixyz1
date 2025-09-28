@@ -1,17 +1,18 @@
+<h1 align="center">abhixxxx</h1>
+<h3 align="center">From Indonesia, State Polytechnic of Malang</h3>
 
-yea
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<!--
-**abhixyz1/abhixyz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+<img src="https://img.shields.io/github/followers/abhixyz1?label=Followers&style=for-the-badge&color=purple"
+alt="github follow"/>
+<img src="https://komarev.com/ghpvc/?username=abhixyz1&label=Profile%20views&color=21907b&style=for-the-badge" alt="abhixyz1" /> 
+<a href="mailto:abhinayazrf@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:lulietlyan-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"t=mail" /></a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhixyz1&theme=buddhism" alt="abhixyz1" /></a> 
+</p>
+
