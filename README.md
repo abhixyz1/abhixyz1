@@ -1,4 +1,6 @@
-## Aku Bakol Ora Midio
+## ADILI ONANA !
+
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/280a07e1-f36e-49a4-9de8-a77289e9fcd8" />
 
 <!--
 **abhixyz1/abhixyz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
